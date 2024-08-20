@@ -1,1 +1,1 @@
-### Slack WebHook을 이용한 서버 요청
+### node.js를 활용한 Slack WebHook Server Request
